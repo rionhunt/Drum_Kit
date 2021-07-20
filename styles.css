@@ -7,7 +7,8 @@
                  objects to the buttons using the switch statement and to attach event listeners
                  to the buttons. We also attached evenlisteners to the keyboard and used the 
                  switch statement to attach sound objects to the relevant keys to play drum 
-                 sounds. Unassigned keys print to the console.
+                 sounds. Unassigned keys print to the console. Next I added some animation to 
+                 flash the keys when activated by the mouse or keyboard.
 */
 
 body {
